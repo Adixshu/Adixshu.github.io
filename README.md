@@ -1,18 +1,22 @@
-# Adixshu.github.io
+# Adixshu.github.io — Aditya Shukla Portfolio
 
-Personal portfolio for Aditya Shukla.
-
-## Stack
-- HTML
-- CSS
-- Vanilla JavaScript
+A dark, personal-brand portfolio for Aditya Shukla.
 
 ## Run locally
-Open `index.html` in a browser, or use VS Code Live Server.
+Open `index.html` with VS Code Live Server.
 
 ## Deploy
-Push the repository to GitHub and enable GitHub Pages from:
-**Settings → Pages → Deploy from branch → main → /(root)**
+Push the files to the GitHub Pages repository and enable Pages.
 
-## Before publishing
-Replace any project descriptions with only work that accurately represents your completed projects and experience.
+## Main sections
+- Hero / personal brand
+- About
+- PDSCT.ac
+- NetSage AI
+- Backend engineering
+- Engineering stack
+- DSA / algorithms
+- Journey
+- Contact
+
+The site intentionally avoids roadmap/project-plan terminology and uses a single source of truth for each technology/category.
